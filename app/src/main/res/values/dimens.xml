@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_image">128dp</dimen>
+    <dimen name="size_arrow">64dp</dimen>
+
+    <dimen name="size_name_superhero">16dp</dimen>
+
+    <dimen name="vertical_spacing">24dp</dimen>
+    <dimen name="both_spacing">24dp</dimen>
+</resources>
